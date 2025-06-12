@@ -121,7 +121,7 @@ def without_list():
         print(f"File error: {e}")
 
 
-set_console_title("Gamertag Checker - https://github.com/Danslvck")
+set_console_title("Gamertag Checker - https://github.com/korxDev")
 set_console_size(122, 29)
 
 start_rgb = (70, 70, 70)
